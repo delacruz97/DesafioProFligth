@@ -8,4 +8,4 @@
 
 El desafío debe ser subido a un repositorio público.
 
-<img src="../profligth/src/image/readme.png" alt="imagen">
+<img src="./readme.png" alt="imagen">

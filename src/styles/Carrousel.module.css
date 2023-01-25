@@ -1,0 +1,203 @@
+.containerP{
+    width: max-content;
+    height: max-content;
+
+    margin-top: 25%;
+    
+   
+}
+
+
+ul{
+    display: flex; 
+    flex-direction: row;
+  }
+
+li{
+    /* Foto logo ProFlight */
+
+ 
+ width: 216.49px;
+ height: 206px;
+ 
+ background: linear-gradient(233.16deg, #00afce3d -10.31%, rgba(0, 176, 206, 0.3) 110.31%);
+ border-radius: 30px;
+ display: flex;
+ margin-left: 35.51px;
+ 
+ 
+
+}
+.lis {
+    
+    width: 216.49px;
+    height: 206px;
+    border-radius: 30px;  
+    margin-left: 35.51px;
+    display: flex;
+    background: linear-gradient(233.16deg, #00B0CE -10.31%, rgba(0, 176, 206, 0.3) 110.31%);
+}
+
+
+
+.im{
+
+width: 155.43px;
+height: 153.57px;
+mix-blend-mode: normal;
+border-radius: 26px;
+margin: auto;
+
+
+}
+
+
+
+.containerUl{
+
+    display: flex;
+   justify-content: center;
+    flex-direction:row;  
+ 
+ 
+}
+/* 768 */
+
+@media only screen and (min-width: 360px) and (max-width: 640px) {
+      /* hacer algo en ese rango de ancho. */
+      .containerP{
+       
+            width: max-content;
+            height: max-content;
+
+           
+            margin: auto;
+            margin-top: 50%;
+           
+        }
+        
+
+
+        ul{
+            display: flex; 
+            flex-direction: row;
+          }
+        
+        li{
+            /* Foto logo ProFlight */
+
+         
+         width: 36.08px;
+         height: 34.33px;
+         
+         background: linear-gradient(233.16deg, #00afce3d -10.31%, rgba(0, 176, 206, 0.3) 110.31%);
+         border-radius: 5px;
+         display: flex;
+         margin-left: 5.915px;
+        
+        }
+        .lis {
+            width: 36.08px;
+            height: 34.33px;
+            border-radius: 5px;
+            display: flex;
+            margin-left: 5.915px;
+            background: linear-gradient(233.16deg, #00B0CE -10.31%, rgba(0, 176, 206, 0.3) 110.31%);
+        }
+        
+        
+        
+        .im{
+            /* Foto logo ProFlight */
+        
+        width: 25.905px;
+        height: 25.595px;
+        mix-blend-mode: normal;
+        border-radius: 4.33px;
+        margin: auto;
+        
+        }
+        
+        
+        
+        .containerUl{
+           
+            display: flex;
+           justify-content: center;
+            flex-direction:row;  
+         
+         
+        }
+
+
+} 
+
+@media only screen and (min-width: 640px) and (max-width: 800px) {
+
+     /* hacer algo en ese rango de ancho. */
+     .containerP{
+        
+            width: max-content;
+            height: max-content;
+
+           
+            margin: auto;
+            margin-top: 50%;
+           
+        }
+        
+
+
+        ul{
+            display: flex; 
+            flex-direction: row;
+          }
+        
+        li{
+            /* Foto logo ProFlight */
+        
+         
+         width: 72.16px;
+         height: 68.66px;
+         
+         background: linear-gradient(233.16deg, #00afce3d -10.31%, rgba(0, 176, 206, 0.3) 110.31%);
+         border-radius: 10px;
+         display: flex;
+         margin-left: 10px;
+        
+        }
+        .lis {
+            
+         width: 72.16px;
+         height: 68.66px;
+         border-radius: 10px;
+         display: flex;
+         margin-left: 10px;
+            background: linear-gradient(233.16deg, #00B0CE -10.31%, rgba(0, 176, 206, 0.3) 110.31%);
+        }
+        
+        
+        
+        .im{
+            /* Foto logo ProFlight */
+       
+        width: 51.81px;
+        height: 51.19px;
+        mix-blend-mode: normal;
+        border-radius: 8.66px;
+        margin: auto;
+        
+        }
+        
+        
+        
+        .containerUl{
+           
+            display: flex;
+           justify-content: center;
+            flex-direction:row;  
+         
+         
+        }
+    
+}

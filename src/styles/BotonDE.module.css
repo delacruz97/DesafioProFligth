@@ -1,0 +1,61 @@
+.btn{
+ /* Fondo */
+
+
+width: 113px;
+height: 107.53px;
+
+background: linear-gradient(233.16deg, #00B0CE -47.28%, rgba(0, 176, 206, 0.3) 73.34%);
+mix-blend-mode: normal;
+border-radius: 200px;
+border: none;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+margin-top: 32.823%;
+
+    
+}
+
+.btn:hover{
+    background-color: rgba(186, 181, 181, 0.523);
+}
+
+@media only screen and (min-width: 360px) and (max-width: 640px) {
+    .btn{
+        /* Fondo */
+       
+       
+       width: 37.66px;
+       height: 35.84px;
+       
+       background: linear-gradient(233.16deg, #00B0CE -47.28%, rgba(0, 176, 206, 0.3) 73.34%);
+       mix-blend-mode: normal;
+       border-radius: 66.66px;
+       border: none;
+       transform: matrix(-1, 0, 0, 1, 0, 0);
+       
+       margin-top: auto;
+       
+           
+       }
+}
+
+@media only screen and (min-width: 640px) and (max-width: 800px) {
+    .btn{
+        /* Fondo */
+       
+ 
+       width: 75.32px;
+       height: 71.68px;
+       
+       background: linear-gradient(233.16deg, #00B0CE -47.28%, rgba(0, 176, 206, 0.3) 73.34%);
+       mix-blend-mode: normal;
+       border-radius: 133.32px;
+       border: none;
+       transform: matrix(-1, 0, 0, 1, 0, 0);
+       margin-left: 17.755px;
+       margin-top: auto;
+       
+           
+       }
+}

@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import style from "../styles/Carrousel.module.css";
+import style from "../styles/Carousel.module.css";
 import BtnDer from "./BtnDer";
 import BtnIzq from "./BtnIzq";
 import imagen from "../image/FondoI.png";

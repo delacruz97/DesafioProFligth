@@ -1,3 +1,4 @@
+
 # Escribir un componente usando React que muestre una lista de logos de ProFlight.
 ## Criterios de aceptación:
 1. El componente debe tener 2 botones.
@@ -8,4 +9,4 @@
 
 El desafío debe ser subido a un repositorio público.
 
-<img src="./readme.png" alt="imagen">
+![Captura de pantalla (274)](https://user-images.githubusercontent.com/74312596/214463990-9b9154be-6fbf-4338-9f72-96acf0cbf624.png)
